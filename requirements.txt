@@ -1,0 +1,4 @@
+dash==2.*
+plotly>=5.18
+pandas>=1.5
+gunicorn
